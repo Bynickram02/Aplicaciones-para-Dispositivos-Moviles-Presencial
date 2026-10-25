@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RecipeApp</string>
+    <string name="tab_books">Libros</string>
+    <string name="tab_library">Mi biblioteca</string>
+    <string name="onboarding_title">Bienvenido a RecipeApp</string>
+    <string name="onboarding_description">Descubre libros destacados, consulta sus detalles y arma tu biblioteca personal con los libros que has leído.</string>
+    <string name="onboarding_continue">Continuar</string>
+    <string name="author">Autor: %1$s</string>
+    <string name="publisher">Editorial: %1$s</string>
+    <string name="genre">Género: %1$s</string>
+    <string name="rating">Calificación: %1$s</string>
+    <string name="year">Año: %1$s</string>
+    <string name="mark_as_read">Marcar como leído</string>
+    <string name="unmark_as_read">Leído · Desmarcar</string>
+    <string name="read_date">Leído el: %1$s</string>
+    <string name="empty_library">Aún no has marcado libros como leídos</string>
+</resources>
